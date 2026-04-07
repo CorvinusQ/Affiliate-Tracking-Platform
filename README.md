@@ -36,15 +36,3 @@
 - **Requests** — HTTP запросы
 - **Allure** — отчеты о тестах
 
-## 📦 Установка
-
-```bash
-# Клонируй репозиторий
-git clone https://github.com/yourusername/affiliate-tracker-qa.git
-cd affiliate-tracker-qa
-
-# Установи зависимости
-pip install -r requirements.txt
-
-# Установи браузеры для Playwright
-playwright install
